@@ -48,6 +48,10 @@ pip install -r requirements.txt
 
 # Technologies Used
 ![image](https://github.com/akshatabhagat6/Phishing-URL-Detection/assets/131398128/ee4b03b5-f7cb-49b3-86e7-a69e059cdd82)
+![image](https://github.com/akshatabhagat6/Phishing-URL-Detection/assets/131398128/1da08440-4866-4155-bd03-69b83e1001f6)
+![image](https://github.com/akshatabhagat6/Phishing-URL-Detection/assets/131398128/51c6deb5-9e39-4958-b265-6f4f23424c4f)
+![image](https://github.com/akshatabhagat6/Phishing-URL-Detection/assets/131398128/0d0cc250-746a-4b56-8ba2-75dd484a134c)
+![image](https://github.com/akshatabhagat6/Phishing-URL-Detection/assets/131398128/cd215e16-958f-4adf-94f8-abf8cecc7f1c)
 
 
 # Result
