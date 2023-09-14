@@ -47,6 +47,7 @@ pip install -r requirements.txt
 
 
 # Technologies Used
+![image](https://github.com/akshatabhagat6/Phishing-URL-Detection/assets/131398128/ee4b03b5-f7cb-49b3-86e7-a69e059cdd82)
 
 
 # Result
